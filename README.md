@@ -1,16 +1,7 @@
-# kb1179_1123150088_uts
+nama : Beryl Rafi Agatha
+nim  :1123150088
 
-A new Flutter project.
+cara menjalankan projek pilh file utama (main.dart) jalankan dengan salah satu cara berikut, Klik tombol Run 
+ Run Wichout Debugging.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1277" height="729" alt="Screenshot 2025-11-07 131143" src="https://github.com/user-attachments/assets/3e3ec8da-6417-40b6-99da-5d5fcb233a1c" />
