@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kb1179_1123150088_uts/screen/splash_screen_1.dart';
 import 'package:latihan_uts/screen/splash_screen_1.dart';
 
 void main() {
